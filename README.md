@@ -1,4 +1,4 @@
-# ScanPortIP.py
+# ScanPortIP
 ### ⚠️Warning: project objetives the project looks at the port is opened and closed but where the use of the port scan decreases the illegal project.
  # Instalation
   #### 🐧 Linux (Debian/Ubuntu)🚀
