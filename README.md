@@ -10,7 +10,7 @@
 
     python -m venv venv
     
-    venv\Scripts\activate
+    source venv\venv\activate
 
     cd ScanPortIP
 
