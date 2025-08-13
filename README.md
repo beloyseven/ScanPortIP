@@ -8,7 +8,7 @@
 
     git clone https://github.com/beloyseven/ScanPortIP.git
 
-    python -m venv venv
+    python3 -m venv venv
     
     source venv\venv\activate
 
